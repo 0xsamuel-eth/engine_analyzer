@@ -1,2 +1,2 @@
 # Engine Analyzer
-Basic MATLAB project analyzing and visualizing data garthered for an engine control unit 
+Basic MATLAB project analyzing and visualizing data gathered from an engine control unit 
